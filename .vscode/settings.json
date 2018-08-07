@@ -1,0 +1,8 @@
+{
+    "git.ignoreLimitWarning": true,
+    "standard.usePackageJson": true,
+    "standard.options": {
+        "env": ["mocha"]    
+    },
+    "standard.autoFixOnSave": true,
+}
